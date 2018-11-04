@@ -5,7 +5,8 @@ Para esta serie de tutoriales usaremos la placa de **programación Vennom** (ver
 
 ## Lista de prácticas con Arduino
 
-- [BUZZER - TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/Guerra_Galaxias_buzzer)
-- [BUZZER - TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Navidad_buzzer)
+- **BUZZER**
+-- [BUZZER - TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/Guerra_Galaxias_buzzer)
+-- [BUZZER - TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Navidad_buzzer)
 
 
