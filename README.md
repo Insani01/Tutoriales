@@ -3,7 +3,7 @@
 Bienvidos a nuestro espacio donde podrán encontrar los procedimientos y códigos para realizar las diferentes prácticas.
 Para esta serie de tutoriales usaremos la placa de **programación Vennom** (ver imagen), en caso de no tenerla dejamos también los gráficos para realizarlo usando un **Arduino UNO.**
 
-![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/Vennom-Arduino.png)
+![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png)
 
 ## Lista de prácticas con Arduino
 
