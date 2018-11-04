@@ -24,4 +24,9 @@ Para esta serie de tutoriales usaremos la placa de **programación Vennom** (ver
 
 ## Placa de programación Vennom
 La placa VENNOM es **compatible** con Scratch pues ya cuenta con una extensión en Mblock para que se pueda controlar y programarla usando los bloques.
+Si deseas adquirir la placa Vennom [Clic aquí](https://www.insani-loja.com/contacto)
 ![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png)
+
+Robot Educativos
+Quieres conocer sobre los robots que puedes controlar con la [Placa Vennom](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png).
+![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/robots_insani.png)
