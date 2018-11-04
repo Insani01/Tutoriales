@@ -2,7 +2,8 @@
 
 # Tutoriales
 
-Bienvidos a nuestro espacio donde podrán encontrar los procedimientos y códigos para realizar las diferentes prácticas.
+Bienvidos a nuestro repositorio de códigos donde podrán encontrar los procedimientos y códigos para realizar las diferentes prácticas y controlar los [robots Insani](#Robots-Educativos). Son robots armables orientados para niños y niñas para que inicien en este mundo de la programación y robótica.
+
 Para esta serie de tutoriales usaremos la placa de  [programación Vennom](#Placa-de-programación-Vennom), en caso de no tenerla dejamos también los gráficos para realizarlo usando un **Arduino UNO.**
 
 
