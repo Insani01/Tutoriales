@@ -28,5 +28,6 @@ Si deseas adquirir la placa Vennom [Clic aquí](https://www.insani-loja.com/cont
 ![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png)
 
 Robot Educativos
-Quieres conocer sobre los robots que puedes controlar con la [Placa Vennom](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png).
+Quieres conocer sobre los robots que puedes controlar con la [Placa Vennom](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png), visita nuestra pagina y enterate de los modelos que puedes **ARMAR**. [Robots Insani](https://www.insani-loja.com/productos)
+
 ![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/robots_insani.png)
