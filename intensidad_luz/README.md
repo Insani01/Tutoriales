@@ -38,7 +38,9 @@ Para la simulación utilizamos un arduino UNO, es **igual** al arduino nano, la 
 
 A continuación podremos ver la simulación del programa realizado.  [Clic para ver la simulación](https://www.tinkercad.com/things/d2fQJsbFrZA )
  
+``` 
 <iframe width="560" height="350" src="https://www.tinkercad.com/embed/d2fQJsbFrZA" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">< /iframe> 
+```
  
 
 ## Programación en Arduino
