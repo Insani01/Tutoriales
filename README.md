@@ -27,7 +27,7 @@ Para esta serie de tutoriales usaremos la placa de **programación Vennom** (ver
 
 Quieres conocer sobre los robots que puedes controlar con la [Placa Vennom](https://github.com/Insani01/Tutoriales/blob/master/Image-Vennom-Arduino.png), visita nuestra página y entérate de los modelos que puedes **ARMAR**. [Robots Insani](https://www.insani-loja.com/productos)
 
-![Placa de Programación Vennom y Arduino Uno](https://github.com/Insani01/Tutoriales/blob/master/robots_insani.png)
+![Robots Educativos](https://github.com/Insani01/Tutoriales/blob/master/robots_insani2.png)
 
 
 ## Placa de programación Vennom
