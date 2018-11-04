@@ -1,5 +1,5 @@
 # Tutoriales
-![Insani](https://github.com/Insani01/Tutoriales/blob/master/encabezado.png)
+![Insani](https://github.com/Insani01/Tutoriales/blob/master/encabezado1.png)
 
 Bienvidos a nuestro espacio donde podrán encontrar los procedimientos y códigos para realizar las diferentes prácticas.
 Para esta serie de tutoriales usaremos la placa de **programación Vennom** (ver imagen), en caso de no tenerla dejamos también los gráficos para realizarlo usando un **Arduino UNO.**
