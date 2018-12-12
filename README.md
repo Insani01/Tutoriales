@@ -19,12 +19,12 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    
    
 - **BUZZER**
-   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/musica_con_Vennom)
-   - [TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Guerra_Galaxias)
-   - [TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Navidad)
-   - [TONO SPIDERMAN](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Spiderman)
-   - [TONO TITANIC](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Titanic)
-   - [TONO CUMPLEAÑOS FELIZ](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Cumpleanios)
+   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   - [TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Guerra_Galaxias)
+   - [TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Navidad)
+   - [TONO SPIDERMAN](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Spiderman)
+   - [TONO TITANIC](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Titanic)
+   - [TONO CUMPLEAÑOS FELIZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Cumpleanios)
    
 
 
