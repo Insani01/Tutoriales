@@ -1,4 +1,4 @@
-# Tono Navidad
+# Tono Navidad con ARDUINO
 
 El objetivo de esta práctica es reproducir con ayuda de un zumbador (buzzer) el tono de **Jingle Bells** mediante frecuencias. 
 
@@ -33,7 +33,7 @@ Se conecta a GND usando un resistor a pin de GND del LED y mediante cables condu
 ## Programación en MBLOCK
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
-![programa en mblock buzzer tono Jingle Bells Arduino](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Navidad/navidad.png)
+![programa en mblock buzzer tono Jingle Bells Arduino](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Navidad/navidad.png)
 
 ## Simulación
 Para la simulación utilizamos un arduino UNO, es **igual** al arduino nano, la única diferencia es el tamaño, los pines y demás son los mismos.

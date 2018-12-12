@@ -10,12 +10,12 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
 ## Lista de prácticas con Arduino
 
 - **LED's**
-   - [INTENSIDAD DE LUZ](https://github.com/Insani01/Tutoriales/tree/master/intensidad_luz)
-   - [LUCES INTERMITENTES](https://github.com/Insani01/Tutoriales/tree/master/luz_intermitente)
-   - [LUCES ALTERNAS - RGB](https://github.com/Insani01/Tutoriales/tree/master/luces_alternas)
-   - [LUCES ALEATORIAS - RGB](https://github.com/Insani01/Tutoriales/tree/master/luces_aleatorias)
-   - [LUCES POLICIA](https://github.com/Insani01/Tutoriales/tree/master/luces_policia)
-   - [LUCES INTERMITENTES - SECUENCIA](https://github.com/Insani01/Tutoriales/tree/master/luces_intermitentes_x5)
+   - [INTENSIDAD DE LUZ](https://github.com/Insani01/Tutoriales/tree/master/LED/intensidad_luz)
+   - [LUCES INTERMITENTES](https://github.com/Insani01/Tutoriales/tree/master/LED/luz_intermitente)
+   - [LUCES ALTERNAS - RGB](https://github.com/Insani01/Tutoriales/tree/master/LED/luces_alternas)
+   - [LUCES ALEATORIAS - RGB](https://github.com/Insani01/Tutoriales/tree/master/LED/luces_aleatorias)
+   - [LUCES POLICIA](https://github.com/Insani01/Tutoriales/tree/master/LED/luces_policia)
+   - [LUCES INTERMITENTES - SECUENCIA](https://github.com/Insani01/Tutoriales/tree/master/LED/luces_intermitentes_x5)
    
    
 - **BUZZER**

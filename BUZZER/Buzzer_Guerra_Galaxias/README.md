@@ -31,7 +31,7 @@ Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la plac
 ## Programación en MBLOCK
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
-![programa en mblock guerra de las galaxias tonos Arduino](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Guerra_Galaxias/guerra%20de%20las%20galaxias.png)
+![programa en mblock guerra de las galaxias tonos Arduino](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Guerra_Galaxias/guerra%20de%20las%20galaxias.png)
 
 
 ## Simulación

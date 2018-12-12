@@ -32,8 +32,8 @@ Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la plac
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa en mblock tono spiderman con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Spiderman/Tono_Spiderman_1.PNG)
-![programa en mblock tono spiderman con Arduino2](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Spiderman/Tono_Spiderman_2.PNG)
+![programa en mblock tono spiderman con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Spiderman/Tono_Spiderman_1.PNG)
+![programa en mblock tono spiderman con Arduino2](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Spiderman/Tono_Spiderman_2.PNG)
 
 
 ## Simulación

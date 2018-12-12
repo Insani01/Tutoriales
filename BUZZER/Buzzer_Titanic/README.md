@@ -24,7 +24,7 @@ www.insani-loja.com
 ## Esquema eléctrico
 Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la placa de arduino y el cable rojo (positivo) al pin PWM 11 de la placa de arduino.
 
-![Esquema de conexion ](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Titanic/Buzzer_titanic2.png)
+![Esquema de conexion ](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Titanic/Buzzer_titanic2.png)
 
 
 
@@ -32,7 +32,7 @@ Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la plac
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa en mblock tono titanic con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Titanic/Buzzer_titanic.png)
+![programa en mblock tono titanic con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Titanic/Buzzer_titanic.png)
 
 
 
