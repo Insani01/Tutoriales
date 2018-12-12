@@ -20,8 +20,11 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    
 - **BUZZER**
    - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/musica_con_Vennom)
-   - [TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/Guerra_Galaxias_buzzer)
-   - [TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Navidad_buzzer)
+   - [TONO GUERRA GALAXIAS](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Guerra_Galaxias)
+   - [TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Navidad)
+   - [TONO SPIDERMAN](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Spiderman)
+   - [TONO TITANIC](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Titanic)
+   
 
 
 ## Robots Educativos
