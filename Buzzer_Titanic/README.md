@@ -24,7 +24,7 @@ www.insani-loja.com
 ## Esquema eléctrico
 Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la placa de arduino y el cable rojo (positivo) al pin PWM 11 de la placa de arduino.
 
-![Esquema de conexion ](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Titanic/Buzzer_titanic2.PNG)
+![Esquema de conexion ](https://github.com/Insani01/Tutoriales/blob/master/Buzzer_Titanic/Buzzer_titanic2.png)
 
 
 
