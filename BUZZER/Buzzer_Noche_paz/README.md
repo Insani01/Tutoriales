@@ -32,8 +32,8 @@ Se conecta el cable negro (negativo) del zumbador o buzzer al pin GND de la plac
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa en mblock tono noche de paz con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Noche_paz/Noche_paz1.PNG)
-![programa en mblock tono noche de paz con Arduino2](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Noche_paz/Noche_paz2.PNG)
+![programa en mblock tono noche de paz con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Noche_paz/Noche_paz1.png)
+![programa en mblock tono noche de paz con Arduino2](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Noche_paz/Noche_paz2.png)
 
 
 ## Simulación

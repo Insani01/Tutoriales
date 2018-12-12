@@ -25,6 +25,7 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [TONO SPIDERMAN](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Spiderman)
    - [TONO TITANIC](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Titanic)
    - [TONO CUMPLEAÑOS FELIZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Cumpleanios)
+   - [TONO NOCHE DE PAZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Noche_paz)
    
 
 
