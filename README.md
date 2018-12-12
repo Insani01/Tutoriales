@@ -24,6 +24,7 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [TONO NAVIDAD](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Navidad)
    - [TONO SPIDERMAN](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Spiderman)
    - [TONO TITANIC](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Titanic)
+   - [TONO CUMPLEAÑOS FELIZ](https://github.com/Insani01/Tutoriales/tree/master/Buzzer_Cumpleanios)
    
 
 
