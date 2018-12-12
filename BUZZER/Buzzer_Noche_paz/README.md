@@ -39,7 +39,7 @@ Al ejecutar el código que vemos a continuación tendremos el resultado de la pr
 ## Simulación
 Para la simulación utilizamos un arduino UNO, es **igual** al arduino nano, la única diferencia es el tamaño, los pines y demás son los mismos.
 
-A continuación podremos ver la simulación del programa realizado.  [Clic para ver la simulación](  https://www.tinkercad.com/things/gHa9NsijrAT  )
+A continuación podremos ver la simulación del programa realizado.  [Clic para ver la simulación](  https://www.tinkercad.com/things/lkuEZxmn3yK  )
 
 
  
