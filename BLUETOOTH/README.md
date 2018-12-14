@@ -20,4 +20,4 @@ www.insani-loja.com
 
 
 
-![programa contro Bluetooth con Arduino](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT5)
+![programa contro Bluetooth con Arduino](https://github.com/Insani01/Tutoriales/blob/master/BLUETOOTH/CONTROL_app.png)
