@@ -28,10 +28,15 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [TONO NOCHE DE PAZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Noche_paz)
    
 - **MOTORES**
-   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   - [GIRO DE UN MOTOR](https://github.com/Insani01/Tutoriales/tree/master/MOTORES/Direccion%20de%20giro)
+   - [DIRECCIÓN DEL ROBOT](https://github.com/Insani01/Tutoriales/tree/master/MOTORES/Direccion%20de%20Robot)
+   - [GIROS DEL ROBOT](https://github.com/Insani01/Tutoriales/tree/master/MOTORES/Giros%20del%20Robot)
+   - [ACTIVAR MOTOR POR TIEMPO](https://github.com/Insani01/Tutoriales/tree/master/MOTORES/Activar_tiempo)
+   - [RETO](https://github.com/Insani01/Tutoriales/tree/master/MOTORES/Reto)
 
 - **SENSORES**
-   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   - [SENSOR TACTO](https://github.com/Insani01/Tutoriales/tree/master/SENSORES/TACTO)
+   - [SENSOR DISTANCIA](https://github.com/Insani01/Tutoriales/tree/master/SENSORES/DISTANCIA)
    
 - **RETOS**
    - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)

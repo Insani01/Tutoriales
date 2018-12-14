@@ -27,4 +27,4 @@ www.insani-loja.com
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa en mblock tono titanic con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/BUZZER/Buzzer_Titanic/Buzzer_titanic.png)
+![programa en mblock tono titanic con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/MOTORES/Giros%20del%20Robot/giros_robot.png)
