@@ -1,4 +1,4 @@
-# Dirección de ROBOT 
+# Sensor de Tacto con Arduino
 
 
 
@@ -18,8 +18,7 @@ www.insani-loja.com
 *En caso de no tener placa Vennom los materiales son:*
 - 1 Arduino
 - 1 Protoboard
-- 2 Motores dc
-- 1 Fuente de alimentación de 5V o pilas
+- 1 Sensor de Tacto
 
 
 
