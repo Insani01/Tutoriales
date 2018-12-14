@@ -25,4 +25,4 @@ www.insani-loja.com
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa evitar la colisión con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/RETOS/ACT5/ACT5.png)
+![programa evitar la colisión con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/RETOS/ACT5/EVITA_OBSTACULO.png)

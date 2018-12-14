@@ -45,6 +45,9 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [RETO 4](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT4)
    - [RETO 5](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT5)
    
+- **CONTROL CON SMARTPHONE**
+   Controla tu robot con tu móvil mediante la App [Insani RC](https://play.google.com/store/apps/details?id=com.insanirc.juanandres.insanirc)
+   - [CONTROL CON APP](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT1)
 
 
 ## Robots Educativos
