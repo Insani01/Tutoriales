@@ -27,6 +27,15 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [TONO CUMPLEAÑOS FELIZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Cumpleanios)
    - [TONO NOCHE DE PAZ](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/Buzzer_Noche_paz)
    
+- **MOTORES**
+   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+
+- **SENSORES**
+   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   
+- **RETOS**
+   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   
 
 
 ## Robots Educativos
