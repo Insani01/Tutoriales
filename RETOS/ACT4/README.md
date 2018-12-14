@@ -1,5 +1,10 @@
 # RETO 4
 
+Detector de aparcamiento
+
+El objetivo de esta práctica es medir la distancia entre objetos simulando el detector de aparcamiento con zumbador existente en algunos vehículos. Para ello se va a utilizar un sensor de distancia.
+
+
 
 
 

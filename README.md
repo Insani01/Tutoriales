@@ -39,7 +39,11 @@ Para esta serie de tutoriales usaremos la placa de  [**programación Vennom**](#
    - [SENSOR DISTANCIA](https://github.com/Insani01/Tutoriales/tree/master/SENSORES/DISTANCIA)
    
 - **RETOS**
-   - [MUSICA CON VENNOM](https://github.com/Insani01/Tutoriales/tree/master/BUZZER/musica_con_Vennom)
+   - [RETO 1](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT1)
+   - [RETO 2](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT2)
+   - [RETO 3](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT3)
+   - [RETO 4](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT4)
+   - [RETO 5](https://github.com/Insani01/Tutoriales/tree/master/RETOS/ACT5)
    
 
 

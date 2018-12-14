@@ -1,5 +1,9 @@
 # RETO 5
 
+Evita Obstáculos
+
+El objetivo de esta práctica es evitar la colisión entre un objeto y el robot. Para ello se va a utilizar un sensor de distancia.
+
 
 
 

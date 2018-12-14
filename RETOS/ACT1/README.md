@@ -1,6 +1,5 @@
 # RETO 1
-
-
+En este reto vamos a encender los LED de color AZUL al presionar el sensor de tacto, caso contrario debe estar apagado.
 
 
 www.insani-loja.com

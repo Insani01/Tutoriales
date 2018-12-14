@@ -1,5 +1,5 @@
 # RETO 2
-
+En este reto vamos a encender una secuencia de colores al presionar el Sensor de tacto.
 
 
 
