@@ -20,4 +20,4 @@ www.insani-loja.com
 Al ejecutar el código que vemos a continuación tendremos el resultado de la práctica.
 
 
-![programa en mblock tono titanic con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/RETOS/ACT1/ACT1.png)
+![programa encender los LED de color AZUL con Arduino1](https://github.com/Insani01/Tutoriales/blob/master/RETOS/ACT1/ACT1.png)
