@@ -7,7 +7,7 @@ Si deseas controlar tu robot con el smartphone, sigue los pasos de este tutorial
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

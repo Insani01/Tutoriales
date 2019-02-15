@@ -7,7 +7,7 @@ El objetivo de esta práctica es medir la distancia entre objetos simulando el d
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

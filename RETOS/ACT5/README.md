@@ -10,7 +10,7 @@ El objetivo de esta práctica es evitar la colisión entre un objeto y el robot.
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

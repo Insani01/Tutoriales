@@ -5,7 +5,7 @@ En este reto vamos a encender los LED de color AZUL al presionar el sensor de ta
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

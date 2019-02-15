@@ -6,7 +6,7 @@ En este reto vamos a encender una secuencia de colores al presionar el Sensor de
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales
