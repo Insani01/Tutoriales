@@ -6,7 +6,7 @@ El objetivo de esta práctica es programar y controlar la intensidad de la luz d
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

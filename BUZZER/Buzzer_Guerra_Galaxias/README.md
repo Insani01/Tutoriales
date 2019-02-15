@@ -6,7 +6,7 @@ El objetivo de esta práctica es reproducir con ayuda de un zumbador (buzzer) la
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

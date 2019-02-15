@@ -29,7 +29,7 @@ En el bloque “Reproducir tone” vamos a poder seleccionar una nota en notaci�
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 

@@ -6,7 +6,7 @@ El objetivo de esta práctica es combinar la intensidad de luz del LED (LED RGB 
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

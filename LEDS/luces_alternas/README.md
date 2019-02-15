@@ -6,7 +6,7 @@ El objetivo de esta práctica es programar tres luces (LED RGB) que parpadean de
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales

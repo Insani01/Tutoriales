@@ -6,7 +6,7 @@ El objetivo de esta práctica es programar el encendido y apagado del  LED (colo
 www.insani-loja.com
 
 | Autor de la práctica |
-| Juan Andrés (INSANI) |
+| (INSANI) |
 
 
 ## Materiales
