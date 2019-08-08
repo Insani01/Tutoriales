@@ -12,6 +12,9 @@ void setup()
 {
   Serial.begin(9600);
   SerialBT.begin(9600);
+  
+  //Serial.begin(115200);
+  //SerialBT.begin(115200);
   delay(1000);
 
 }
@@ -21,7 +24,7 @@ void loop()
   if (SerialBT.available() > 0)  // Si llega un dato por el puerto BT se envía al monitor serial
   {
     dato =  SerialBT.read();
-    //Serial.println(dato);
+    Serial.println(dato);
     recibe_bt(dato);
 
   }
@@ -47,13 +50,6 @@ void recibe_bt(char dat) {
         dato = 'z';
         break;
 
-      case 'c':
-        delay(500);
-        SerialBT.println("v1~");
-        SerialBT.flush();
-        dato = 'z';
-        break;
-
       case '0':      // STOP
         SerialBT.flush();
         //Serial.write(dato);
@@ -66,7 +62,7 @@ void recibe_bt(char dat) {
         SerialBT.flush();
         //Serial.write(dato);
         dato = 'z';
-        robot.MoverVennom("adelante");
+       robot.MoverVennom("derecha");
         robot.LED_RGB(0, 255, 0);
         break;
 
@@ -75,7 +71,8 @@ void recibe_bt(char dat) {
         //Serial.write(dato);
         dato = 'z';
 
-        robot.MoverVennom("atras");
+        robot.MoverVennom("izquierda");
+        
         robot.LED_RGB(255, 0, 0);
 
         break;
@@ -84,7 +81,8 @@ void recibe_bt(char dat) {
         SerialBT.flush();
         //Serial.write(dato);
         dato = 'z';
-        robot.MoverVennom("derecha");
+         robot.MoverVennom("adelante");
+        
         robot.LED_RGB(0, 0, 255);
         break;
 
@@ -92,7 +90,7 @@ void recibe_bt(char dat) {
         SerialBT.flush();
         //Serial.write(dato);
         dato = 'z';
-        robot.MoverVennom("izquierda");
+        robot.MoverVennom("atras");
         robot.LED_RGB(0, 0, 255);
         break;
 
@@ -101,11 +99,22 @@ void recibe_bt(char dat) {
         dato = 'z';
         break;
 
-      case 'a':
+      case 'c':
         dato = 'z';
         robot.Cantante("saludo");
         break;
-
+      case 'b':
+        dato = 'z';
+        robot.Cantante("navidad");
+        break;
+      case 'a':
+        dato = 'z';
+        robot.Cantante("spiderman");
+        break;
+      case 'd':
+        dato = 'z';
+        robot.Cantante("starWars");
+        break;
       case 'e':
         dato = 'z';
         robot.Cantante("mario");
